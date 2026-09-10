@@ -135,7 +135,6 @@ CHD-Prediction/
     └── heart_data.csv
 ```
 
-> File names can be changed according to your actual project structure.
 
 ---
 
